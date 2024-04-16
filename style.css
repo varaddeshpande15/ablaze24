@@ -141,16 +141,17 @@
     /* background-color: black; */
   }
   .team-content{
-    height: 170vh;
+    height: 180vh;
     width : 100vw;
     background-color: black;
     border-top: 2px solid #dadada;
   }
   .core-team{
     margin-top: 5vw;
-    height: 150vh;
+    height: 170vh;
     width: 55vw;
     object-fit: cover;
+    margin-bottom: 2vh;
     margin-left: 22.5vw;
     /* background-color: black; */
   }
